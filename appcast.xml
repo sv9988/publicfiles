@@ -4,11 +4,11 @@
         <title>WPC</title>
         <item>
             <title>3.0</title>
-            <pubDate>Wed, 26 Mar 2025 00:19:54 +0700</pubDate>
+            <pubDate>Wed, 26 Mar 2025 00:48:12 +0700</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/sv9988/publicfiles/main/WPC.zip" length="9734097" type="application/octet-stream" sparkle:edSignature="FJhYis49ghMPXzAwF49eJYNLcn15t1Cz3K34vJE0z1FBz+jdKq+qspG6l4AggVjN/cfg5ksDU0EaeuFwwD5uCA=="/>
+            <enclosure url="https://raw.githubusercontent.com/sv9988/publicfiles/main/WPC.zip" length="9734798" type="application/octet-stream" sparkle:edSignature="pWZISleAKu1QupuhJbmmIrn7N71T323AplxT2L+kQ7crxtqO7VGdAZu4bbvKjG35dTEqahZFpXIDuMBEW+BiCw=="/>
         </item>
     </channel>
 </rss>
