@@ -5,7 +5,7 @@
         <item>
             <title>2.0</title>
             <pubDate>Mon, 24 Mar 2025 18:19:45 +0700</pubDate>
-            <sparkle:version>1.0</sparkle:version>
+            <sparkle:version>2.0</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/sv9988/publicfiles/main/WPC.zip" length="9729652" type="application/octet-stream" sparkle:edSignature="bMfoxBNloJ9Wdmr4HHkdUPdQgNaDRwRBzD+FBfvBvk/g6UhBK9+qYWG1AmXpr1TSDZ13K8b08ibEfVHOElOIAg=="/>
