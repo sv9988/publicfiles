@@ -1,12 +1,12 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="1.0">
+<?xml version="2.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>WPC</title>
         <item>
-            <title>1.0</title>
+            <title>2.0</title>
             <pubDate>Tue, 25 Mar 2025 22:43:07 +0700</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/sv9988/publicfiles/main/WPC.zip" length="9733552" type="application/octet-stream" sparkle:edSignature="WQUOOgXYXsIXD0AEr775MmHOuHtfOpe2JQouSC5D1+o3h6VuFphJlM5i2k43Rhj4W/46VsbF+e/jtWzPamrGCQ=="/>
         </item>
