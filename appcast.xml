@@ -3,12 +3,12 @@
     <channel>
         <title>WPC</title>
         <item>
-            <title>3.0</title>
-            <pubDate>Wed, 02 Apr 2025 12:02:12 +0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <title>4.0</title>
+            <pubDate>Thu, 03 Apr 2025 14:53:37 +0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/sv9988/publicfiles/main/WPC.zip" length="9846762" type="application/octet-stream" sparkle:edSignature="FoF1c6+sz2oeMpU6wWkNzQJLPLXbvwWcYM0cMfmxEXUGy4lFxAiW/9qEhOquG5TXMJdNRejKRocjDavrMZWgDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/sv9988/publicfiles/main/WPC.zip" length="9850708" type="application/octet-stream" sparkle:edSignature="s4oStpKJG0B6w51D1CeJ9gp3dX/dQki81lz+nIrIQkfmG9zTNyFFMJE/Y4hr+KpyJfNmsFDHgfT0rd3EsrwdDQ=="/>
         </item>
     </channel>
 </rss>
